@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tinder.android.iml" filepath="$PROJECT_DIR$/.idea/modules/Tinder.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tinder.android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tinder.android.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinder.android.iml" filepath="$PROJECT_DIR$/.idea/modules/tinder.android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tinder.android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tinder.android.app.iml" />
     </modules>
   </component>
 </project>
