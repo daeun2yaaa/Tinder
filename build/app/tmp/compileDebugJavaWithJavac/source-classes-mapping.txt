@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/clone/tinder/BuildConfig.java
+ com.clone.tinder.BuildConfig
