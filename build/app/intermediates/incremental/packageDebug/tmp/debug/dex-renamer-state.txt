@@ -1,4 +1,4 @@
-#Mon Jun 07 03:19:28 KST 2021
+#Fri Jun 11 15:31:06 KST 2021
 base.0=/Users/daeun/Documents/clone/Tinder/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
