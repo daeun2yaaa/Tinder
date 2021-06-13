@@ -25,102 +25,38 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcd66b01-9e4c-4f28-80e1-66367f9627d1" name="Default Changelist" comment="네비게이터, 회원정보, 하단버튼 부분 추가">
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/.filecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/app.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/debug_android_application.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/flutter_assets.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/gen_localizations.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/kernel_snapshot.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/kernel_snapshot.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/outputs.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle_______build_app_intermediates_flutter_debug_libs_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle_______build_app_intermediates_flutter_debug_libs_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_2f0af3715217a0c2ada72c717d4ed9178d68f6ed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/647fa92c23aa2689b9fc849e1b92e91e/gen_localizations.stamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/3Xnou1HuBKob+4aOr04mMep_cs8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/5O8wlfR7mVpe40FqLANA+PXjDMA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Cw2AMmlcaowFYZGT2es4rsXu+wo=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/USHHVSBjK18_A2qb85Yu4DiAQho=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/zntyZT4gM4mjkuerine6SvY3UH0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/3Xnou1HuBKob+4aOr04mMep_cs8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/5O8wlfR7mVpe40FqLANA+PXjDMA=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Cw2AMmlcaowFYZGT2es4rsXu+wo=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/USHHVSBjK18_A2qb85Yu4DiAQho=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/zntyZT4gM4mjkuerine6SvY3UH0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/chat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/home.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/profile.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ui/super.dart" afterDir="false" />
+    <list default="true" id="bcd66b01-9e4c-4f28-80e1-66367f9627d1" name="Default Changelist" comment="네비게이터 기능 추가, 버튼 디자인 변경">
+      <change afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4fe998fb5ac3889b21510dbe902a9236/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/modules/app/Tinder.android.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/modules/app/Tinder.android.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/libs.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/5O8wlfR7mVpe40FqLANA+PXjDMA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeNativeLibs/zip-cache/5O8wlfR7mVpe40FqLANA+PXjDMA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ca911639e1acf7eb5faca5c911ba99db/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/super.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/super.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623003724277</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="네비게이터 기능 추가, 버튼 디자인 변경">
+      <created>1623393173246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623393173246</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,32 +160,49 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="네비게이터, 회원정보, 하단버튼 부분 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="네비게이터 기능 추가, 버튼 디자인 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="네비게이터 기능 추가, 버튼 디자인 변경" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="99" key="GridCell.Tab.0.bottom" timestamp="1623389526446">
+    <state x="458" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623393469366">
       <screen x="0" y="25" width="1440" height="818" />
     </state>
-    <state width="1398" height="99" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1623389526446" />
-    <state width="1398" height="99" key="GridCell.Tab.0.center" timestamp="1623389526446">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state x="458" y="185" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.818@0.25.1440.818" timestamp="1623393469366" />
+    <state width="0" height="0" key="GridCell.Tab.0.bottom" timestamp="1623578396118">
+      <screen x="1440" y="25" width="1920" height="1055" />
     </state>
-    <state width="1398" height="99" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1623389526446" />
-    <state width="1398" height="99" key="GridCell.Tab.0.left" timestamp="1623389526446">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1623572504877" />
+    <state width="0" height="0" key="GridCell.Tab.0.bottom/0.25.1440.818/1440.25.1920.1055@1440.25.1920.1055" timestamp="1623578396118" />
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1623394925179" />
+    <state width="0" height="0" key="GridCell.Tab.0.center" timestamp="1623578396117">
+      <screen x="1440" y="25" width="1920" height="1055" />
     </state>
-    <state width="1398" height="99" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1623389526446" />
-    <state width="1398" height="99" key="GridCell.Tab.0.right" timestamp="1623389526446">
-      <screen x="0" y="25" width="1440" height="818" />
+    <state width="1398" height="340" key="GridCell.Tab.0.center/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1623572504876" />
+    <state width="0" height="0" key="GridCell.Tab.0.center/0.25.1440.818/1440.25.1920.1055@1440.25.1920.1055" timestamp="1623578396117" />
+    <state width="1398" height="340" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1623394925178" />
+    <state width="0" height="0" key="GridCell.Tab.0.left" timestamp="1623578396116">
+      <screen x="1440" y="25" width="1920" height="1055" />
     </state>
-    <state width="1398" height="99" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1623389526446" />
+    <state width="1398" height="340" key="GridCell.Tab.0.left/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1623572504876" />
+    <state width="0" height="0" key="GridCell.Tab.0.left/0.25.1440.818/1440.25.1920.1055@1440.25.1920.1055" timestamp="1623578396116" />
+    <state width="1398" height="340" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1623394925176" />
+    <state width="0" height="0" key="GridCell.Tab.0.right" timestamp="1623578396118">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.right/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1623572504876" />
+    <state width="0" height="0" key="GridCell.Tab.0.right/0.25.1440.818/1440.25.1920.1055@1440.25.1920.1055" timestamp="1623578396118" />
+    <state width="1398" height="340" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1623394925178" />
     <state x="208" y="25" width="1024" height="818" key="SettingsEditor" timestamp="1623003935610">
       <screen x="0" y="25" width="1440" height="818" />
     </state>
     <state x="208" y="25" width="1024" height="818" key="SettingsEditor/0.25.1440.818@0.25.1440.818" timestamp="1623003935610" />
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1623004296641">
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1623393228013">
       <screen x="0" y="25" width="1440" height="818" />
     </state>
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.25.1440.818@0.25.1440.818" timestamp="1623004296641" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.25.1440.818@0.25.1440.818" timestamp="1623393228013" />
+    <state x="2183" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1623578935877">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2183" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1440.818/1440.25.1920.1055@1440.25.1920.1055" timestamp="1623578935877" />
   </component>
 </project>
